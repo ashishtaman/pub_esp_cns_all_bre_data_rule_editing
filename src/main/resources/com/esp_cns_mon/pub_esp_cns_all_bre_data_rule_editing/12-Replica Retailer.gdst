@@ -79,7 +79,7 @@
       <boundName>data</boundName>
       <factField>data_outlet</factField>
       <type>java.math.BigDecimal</type>
-      <update>true</update>
+      <update>false</update>
     </org.drools.workbench.models.guided.dtable.shared.model.ActionSetFieldCol52>
   </actionCols>
   <imports>
